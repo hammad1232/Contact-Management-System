@@ -1,0 +1,14 @@
+/* Simple custom styles */
+body {
+  background: #f8f9fa;
+  padding-bottom: 40px;
+}
+.table td, .table th {
+  vertical-align: middle;
+}
+#searchInput {
+  max-width: 60%;
+}
+.alert-fade {
+  transition: opacity 0.35s ease-in-out;
+}
